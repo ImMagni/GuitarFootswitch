@@ -10,6 +10,7 @@ Compatible with most amps that use TS jack switching. i also added a rgb led tha
 - RGB led
 - SPST switch
 - Battery holder 2x aaa
+  
 Case|Schematic|Pcb
 :-:|:-:|:-:|
 <img src=images/model.png/>|<img src=images/schemfootswtch.png/>| <img src=images/pcb.png/>
