@@ -1,0 +1,6 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"BT1","1","Battery_Cell","","","","Battery:BatteryHolder_Keystone_2468_2xAAA","~"
+"D1","1","APFA3010","","","","LED_THT:LED_D5.0mm-4_RGB","http://www.kingbrightusa.com/images/catalog/SPEC/APFA3010LSEEZGKQBKC.pdf"
+"J2","1","AudioJack2","","","","Connector_Audio:Jack_6.35mm_Neutrik_NMJ6HFD2-AU_Horizontal","~"
+"SW1","1","SW_Push_DPDT","","","","Button_Switch_THT:SW_PUSH_E-Switch_FS5700DP_DPDT","~"
+"SW2","1","SW_DIP_x01","","","","Button_Switch_THT:SW_SPST_Omron_B3F-50xx","~"
