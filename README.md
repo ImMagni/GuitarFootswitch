@@ -1,6 +1,9 @@
 # GuitarFootswitch
 This project is about footswitc
 
+
+<img src=images/schemfootswtch.png/><br>
+
 ## BOM
 
 - 1/4 TS jack
