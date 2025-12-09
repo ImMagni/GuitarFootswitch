@@ -1,5 +1,5 @@
 # GuitarFootswitch
-<img src=images/model render.png/><br>
+<img src=images/modelrender.png/><br>
 A simple footswitch designed to change channels and toggle modes on analog and digital guitar amplifiers.
 Compatible with most amps that use TS jack switching. i also added a rgb led that shows the state of the switch(red and green)
 ## BOM
@@ -7,6 +7,9 @@ Compatible with most amps that use TS jack switching. i also added a rgb led tha
 - Wires
 - dpdt switch
 - Metal box
+- RGB led
+- SPST switch
+- Battery holder 2x aaa
 ## Schematic
 <img src=images/schemfootswtch.png/><br>
 
@@ -16,5 +19,5 @@ Case|Schematic|Pcb
 
 -|-
 :-:|:-:|
-<img src=images/render.PNG/>|<img src=images/render2.png/>
+<img src=images/render.png/>|<img src=images/render2.png/>
 
