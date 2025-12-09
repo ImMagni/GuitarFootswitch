@@ -7,4 +7,4 @@ Compatible with most amps that use TS jack switching. i also added a rgb led tha
 - dpdt switch
 - Metal box
 ## Schematic
-<img src=schemfootswtch.png/><br>
+<img src=images/schemfootswtch.png/><br>
