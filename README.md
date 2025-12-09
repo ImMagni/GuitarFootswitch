@@ -17,7 +17,5 @@ Case|Schematic|Pcb
 :-:|:-:|:-:|
 <img src=images/model.png/>|<img src=images/schemfootswtch.png/>| <img src=images/pcb.png/>
 
--|-
-:-:|:-:|
-<img src=images/render.png/>|<img src=images/render2.png/>
+<img src=images/render.png/>
 
