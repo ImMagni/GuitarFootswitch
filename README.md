@@ -2,7 +2,7 @@
 This project is about footswitc
 
 
-<img src=images/schemfootswtch.png/><br>
+<img src=schemfootswtch.png/><br>
 
 ## BOM
 
