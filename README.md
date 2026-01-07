@@ -6,10 +6,14 @@ Compatible with most amps that use TS jack switching. i also added a rgb led tha
 - 1/4 TS jack
 - Wires
 - dpdt switch
-- Metal box
+- Metal box/ 3d case
 - RGB led
 - SPST switch
-- Battery holder 2x aaa
+- Battery holder 2x AAA
+
+## Video
+
+https://www.youtube.com/watch?v=f8zoFo4aWhc
   
 Case|Schematic|Pcb
 :-:|:-:|:-:|
